@@ -9,7 +9,10 @@
   3. Advanced Analytics leveraging - SQL,PYTHON, DAX
   4. Business intelligence dashboards to support strategic decision-making.
   5. A strong ability to transform raw data into actionable insights.
-- 📫 How to reach me 
+- 📫 Feel free to reach out on
+- ![linkedin](www.linkedin.com/in/legavasu1203)
+-  ![Github](github.com/legavasu)
+-  ![email](legasv1203@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
